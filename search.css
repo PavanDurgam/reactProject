@@ -1,0 +1,53 @@
+.Serachitem{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: aliceblue;
+}
+.text{
+    padding: 8px;
+}
+.image_edit{
+   height: 80px;
+   width: 80px;
+   box-shadow: 0px 4px 16px 0px #bfbfbf;
+   border-style: solid 5px rgb(0, 0, 0);
+   cursor: pointer;
+   border-radius: 18px;
+}
+.container{
+    background-color: rgb(12, 8, 69);
+    padding: 40px;
+    border-radius: 00px;
+    color: white;
+    font-family: roboto;
+
+}
+.flexboxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.name{
+    background-color: lightblue;
+    border-radius: 50px;
+    margin: 10px;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.button{
+    height: 50px;
+    width: 250px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    cursor: pointer;
+    outline:none;
+}

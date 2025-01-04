@@ -1,0 +1,36 @@
+.about-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .about-image {
+   margin: 100px;
+    
+    border-radius: 80px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    color: #333;
+    background-color: darkgreen;
+  }
+  .imges {
+     height: 40vh;
+     width: 60vw;
+  }
+  nav{
+    background-color:rgb(230, 176, 176);
+    padding: 30px;
+    margin: 30px;
+    text-align: center;
+  }
+nav a{
+     color: rgba(3, 3, 3, 0.204);
+     padding: 10px;
+  }
+  nav a.active{
+    color: rgb(37, 255, 13);
+    background-color: #333;
+    border-radius: 10px;
+
+  }
